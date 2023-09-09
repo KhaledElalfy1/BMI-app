@@ -1,5 +1,5 @@
 import 'package:bmi/app_styles.dart';
-import 'package:bmi/result/presentation/view/widgets/custom_ratio_container.dart';
+import 'package:bmi/result/presentation/view/widgets/custom_result_container.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
